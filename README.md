@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**ssimchenko/ssimchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer focused on building clean and responsive web applications.
 
-Here are some ideas to get you started:
+I mostly work with React, TypeScript, and Next.js. I enjoy turning ideas and designs into simple, user-friendly interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building pet projects, improving my skills, and looking for a Frontend Developer opportunity.
+
+---
+
+### Tools & Tech
+
+- React, Next.js
+- TypeScript, JavaScript
+- HTML, CSS
+- Git, GitHub
+
+---
+
+### A Bit About Me
+
+- 🧩 I enjoy solving UI problems and working on small details
+- 📚 I learn best by building real projects
+- 🚀 I like creating things that are simple, useful, and easy to understand
+- 🎯 Currently open to work
