@@ -19,7 +19,6 @@ I'm currently building pet projects, improving my skills, and looking for a Fron
 
 ### A Bit About Me
 
-- 🧩 I enjoy solving UI problems and working on small details
 - 📚 I learn best by building real projects
 - 🚀 I like creating things that are simple, useful, and easy to understand
 - 🎯 Currently open to work
